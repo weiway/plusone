@@ -10,16 +10,16 @@ $ npm install -g plus-one
 # Usage #
 ```
 // Plus one minute
-$ plusone -M
+$ +1 -M
 
 // Plus one hour
-$ plusone -H
+$ +1 -H
 
 // Plus one day
-$ plusone -D
+$ +1 -D
 
 // Help
-$ plusone --help
+$ +1 --help
 ```
 
 # License #
