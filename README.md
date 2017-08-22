@@ -1,6 +1,11 @@
-# Plus One +1 #
+# Plus-One +1 #
 
 This program will print the timestamp +1 minute/hour/day from NOW. (Also will copy to your system clipboard)
+
+# Install #
+```
+$ npm install -g plus-one
+```
 
 # Usage #
 ```
